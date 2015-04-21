@@ -6,5 +6,4 @@ public class Calculator {
         return x1 + x2;
     }
 
-    dfsd
 }

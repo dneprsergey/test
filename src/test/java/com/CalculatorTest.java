@@ -13,6 +13,6 @@ public class CalculatorTest {
 
     @Test
     public void sumTest() {
-        assertEquals(5, calculator.sum(1,2));
+        assertEquals(3, calculator.sum(1,2));
     }
 }
